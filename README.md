@@ -6,7 +6,7 @@
 
 ## Compute embeddings
 
-'''bash
+```bash
 python -i embedding/embedding.py --dataroot ./datasets/maps --name maps_cyclegan --model cycle_gan --gpu_ids -1
-'''
+```
 
