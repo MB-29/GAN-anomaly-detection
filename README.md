@@ -25,4 +25,4 @@ python anomaly_detection/data_analysis.py
 ```
 
 ## Anomaly detection
-Please find the Jupyter notebooks at the following link : 
+Please find our work in the Jupyter notebooks [here](https://drive.google.com/file/d/1qr9_9XiEm-pW3jW0FLy37xIfX5apNW31/view?usp=sharing).
