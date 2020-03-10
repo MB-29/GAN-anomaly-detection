@@ -1,6 +1,6 @@
 # Anomaly detection
 
-Anomaly detecction using cycle-GAN, by Matthieu Blanke, Souhail Cadi, Jules Delemotte, and Benoît Oriol.
+Anomaly detection using cycle-GAN, by Matthieu Blanke, Souhail Cadi, Jules Delemotte, and Benoît Oriol.
 
 ## Originial Repository 
 
