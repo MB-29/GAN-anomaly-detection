@@ -9,7 +9,7 @@ Anomaly detecction using cycle-GAN, by Matthieu Blanke, Souhail Cadi, Jules Dele
 ## Setup
 
 Please install CycleGAN network and download the pix2pix maps dataset following the instructions provided in the original repository.
-The checkpoint files and weights we obtained after a training phase of 11 epochs and that we used for our project are available [here]'https://drive.google.com/drive/folders/1Mx4njifZawB06BkqDNBY2U6sT1i7uGlT?usp=sharing).
+The checkpoint files and weights we obtained after a training phase of 11 epochs and that we used for our project are available [here](https://drive.google.com/drive/folders/1Mx4njifZawB06BkqDNBY2U6sT1i7uGlT?usp=sharing).
 
 ## Compute and save embeddings
 
