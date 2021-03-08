@@ -1,7 +1,6 @@
 # Anomaly detection
 
-Anomaly detection using cycle-GAN, by Matthieu Blanke, Souhail Cadi, Jules Delemotte, and Benoît Oriol.
-
+Anomaly detection using cycle-GAN.
 ## Originial Repository 
 
 [Image-to-Image Translation in PyTorch ](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
